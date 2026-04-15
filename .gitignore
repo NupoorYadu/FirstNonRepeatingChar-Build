@@ -1,0 +1,50 @@
+# Maven
+target/
+*.jar
+*.class
+.m2/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.maven.metadata.xml
+
+# IDE
+.idea/
+.vscode/
+.project
+.classpath
+.springboot
+*.iml
+*.swp
+*.swo
+*~
+
+# Build
+build/
+dist/
+bin/
+.gradle/
+
+# Code Coverage
+jacoco.exec
+.coverage
+coverage/
+target/site/jacoco/
+
+# SonarQube
+.sonar/
+.sonarlint/
+sonar-project.properties
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary files
+*.tmp
+*.bak
